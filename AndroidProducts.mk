@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_pine.mk
+    $(LOCAL_DIR)/lineage_pine.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_pine-user \
