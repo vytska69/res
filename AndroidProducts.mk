@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_pine.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_pine-user \
-    aosp_pine-userdebug \
-    aosp_pine-eng
+    lineage_pine-user \
+    lineage_pine-userdebug \
+    lineage_pine-eng
